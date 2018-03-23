@@ -1,15 +1,24 @@
 name: "CSUC DataFest"
 output_dir: "."
 navbar:
-  title: "Welcome"
+  title: "Data Fest 2018"
   type: inverse
   left:
-    - text: "Sign up"
-      href: signup.html
     - text: "Schedule"
       href: schedule.html
     - text: "Sponsers"
       href: sponsers.html
+  right: 
     - text: "FAQ"
+      icon: fa-question
       href: faq.html
+    - text: "Contact"
+      icon: fa-envelope-o
+      href: mailto:datascience@csuchico.edu 
+
       
+output:
+  html_document:
+    theme: journal
+    highlight: tango
+    css: style.css
