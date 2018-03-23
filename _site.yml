@@ -6,8 +6,8 @@ navbar:
   left:
     - text: "Schedule"
       href: schedule.html
-    - text: "Sponsers"
-      href: sponsers.html
+    - text: "Sponsors"
+      href: sponsors.html
   right: 
     - text: "FAQ"
       icon: fa-question
