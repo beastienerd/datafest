@@ -1,13 +1,17 @@
-name: "Baseball EDA"
+name: "CSUC DataFest"
 output_dir: "."
 navbar:
   title: "Welcome"
   type: inverse
   left:
     - text: "Home"
-      href: index.html
-    - text: "Analysis"
-      href: analysis.html
-    - text: "Contact"
-      href: contact.html
+      href: home.html
+    - text: "Sign up"
+      href: signup.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Sponsers"
+      href: sponsers.html
+    - text: "FAQ"
+      href: faq.html
       
