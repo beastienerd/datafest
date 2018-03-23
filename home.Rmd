@@ -1,5 +1,5 @@
 ---
-title: "Sign Up"
+title: "home"
 ---
 
-#sign up link
+#home page part 2? where does the welcome page come from
