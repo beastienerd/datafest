@@ -11,7 +11,7 @@
 
 
 
-<title>Processing</title>
+<title></title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -176,16 +178,16 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
+  <a href="signup.html">Sign up</a>
 </li>
 <li>
-  <a href="processing.html">Processing</a>
+  <a href="schedule.html">Schedule</a>
 </li>
 <li>
-  <a href="analysis.html">Analysis</a>
+  <a href="sponsers.html">Sponsers</a>
 </li>
 <li>
-  <a href="contact.html">Contact</a>
+  <a href="faq.html">FAQ</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -199,12 +201,20 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Processing</h1>
 
 </div>
 
 
-<p><em>The page was designed to describe the methods and subsetting of our data.</em></p>
+<div id="sponsors" class="section level1">
+<h1>Sponsors</h1>
+</div>
+<div id="data-camp-is-offering-a-free-one-month-trial-membership-access-to-all-their-courses-for-datafest-participants." class="section level1">
+<h1>Data Camp is offering a free one-month trial membership (access to all their courses) for DataFest participants.</h1>
+<p><a href="https://www.datacamp.com/promo/meetup"><img src="images/logo_dc.png" /></a></p>
+</div>
+<div id="sap-university-competence-center-sap-ucc" class="section level1">
+<h1>SAP University Competence Center (SAP-UCC)</h1>
+</div>
 
 
 
