@@ -4,8 +4,6 @@ navbar:
   title: "Welcome"
   type: inverse
   left:
-    - text: "Home"
-      href: home.html
     - text: "Sign up"
       href: signup.html
     - text: "Schedule"

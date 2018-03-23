@@ -1,5 +1,0 @@
----
-title: "home"
----
-
-#home page part 2? where does the welcome page come from
