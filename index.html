@@ -15,29 +15,12 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
 
 
 
@@ -68,6 +51,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 </head>
 
@@ -99,34 +83,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 61px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 </style>
 
@@ -173,25 +157,32 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Welcome</a>
+      <a class="navbar-brand" href="index.html">Data Fest 2018</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="signup.html">Sign up</a>
-</li>
-<li>
   <a href="schedule.html">Schedule</a>
 </li>
 <li>
-  <a href="sponsers.html">Sponsers</a>
-</li>
-<li>
-  <a href="faq.html">FAQ</a>
+  <a href="sponsors.html">Sponsors</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        
+        <li>
+  <a href="faq.html">
+    <span class="fa fa-question"></span>
+     
+    FAQ
+  </a>
+</li>
+<li>
+  <a href="mailto:datascience@csuchico.edu">
+    <span class="fa fa-envelope-o"></span>
+     
+    Contact
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -212,16 +203,17 @@ $(document).ready(function () {
 <div id="about-datafest" class="section level1">
 <h1>About DataFest</h1>
 <p>DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening. At the conclusion of the competition, each team will have 5 minutes to make a presentation to a panel of judges. Each panel of judges will select a team for the “Best in Group” prize, and the entire group of judges will determine a “Best in Show” prize. Other additional prizes may be awarded.</p>
-<div id="section" class="section level4">
-<h4></h4>
 <p>The mission of DataFest is to expose undergraduate students to challenging questions with immediate real-world significance that can be addressed through data analysis. By working in teams, students with varying skill sets will combine their efforts and expand their collective data analysis horizons. Interaction among students, as well as with outside consultants will promote the sense that data analysis is a dynamic, engaging, and vibrant part of our society, as well as a realistic, practical, and fun career path.</p>
-</div>
-</div>
-<div id="the-csuc-data-fest-will-take-place" class="section level1">
-<h1>The CSUC Data Fest will take place:</h1>
-<p>Start: Friday, April 27, 2018, 5pm</p>
-<p>Finish: Sunday, April 29, 2018, 5pm</p>
-<p>Venue: Holt 155</p>
+<hr />
+<div id="the-csuc-data-fest-will-take-place" class="section level2">
+<h2>The CSUC Data Fest will take place:</h2>
+<ul>
+<li>Start: Friday, April 27, 2018, 5pm</li>
+<li>Finish: Sunday, April 29, 2018, 5pm</li>
+<li>Venue: Chico State Campus, Holt 155</li>
+</ul>
+<p><a href="images/DataFest%20Flyer.pdf">[Advertisement Flyer]</a></p>
+<hr />
 <div id="who-is-eligible-to-compete" class="section level3">
 <h3>Who is eligible to compete?</h3>
 <p>All CSU Chico undergraduate students are eligable to compete.</p>
@@ -249,18 +241,19 @@ $(document).ready(function () {
 <h3>Do we have to stay the entire time?</h3>
 <p>No. You may come and go as you please. However, you are not allowed to work on the project except while you are on ASA DataFestTM grounds, and at least 3 members of your team must attend the introduction.</p>
 </div>
-<div id="where-can-i-sign-up" class="section level2">
-<h2>Where can I sign up?</h2>
+<div id="where-can-i-sign-up" class="section level3">
+<h3>Where can I sign up?</h3>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf6lrnab-gm-ds5xsi8Ss5j3E-ZTUc0ipSNQYOEvSzRbkoKhw/viewform">[Right here!]</a> or the sign up link up top.</p>
 </div>
-<div id="any-questions" class="section level2">
-<h2>Any questions?:</h2>
+<div id="any-questions" class="section level3">
+<h3>Any questions?:</h3>
 <p>Please don’t hesitate to contact the event coordinators</p>
 <ul>
 <li>Robin Donatello <a href="mailto:rdonatello@csuchico.edu">rdonatello@csuchico.edu</a></li>
 <li>Kathy Gray <a href="mailto:klgray@csuchico.edu">klgray@csuchico.edu</a></li>
 <li>Edward Roualdes <a href="mailto:eroualdes@csuchico.edu">eroualdes@csuchico.edu</a></li>
 </ul>
+</div>
 </div>
 </div>
 
