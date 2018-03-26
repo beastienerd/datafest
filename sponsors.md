@@ -29,6 +29,7 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 Data Fest wouldn't be able to happen without the help of these individuals and companies. 
 
 * **The American Statistical Association** is the National coordinating organization. They work hard to get the most interesting data possible. 
+[![](images/asa_logo.jpg)](https://www.amstat.org/)
 
 * **Data Camp** is offering a free one-month trial membership (access to all their courses) for DataFest participants.
 [![](images/logo_dc.png)](https://www.datacamp.com/promo/meetup)
@@ -36,6 +37,7 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 
 * **SAP University Competence Center (SAP-UCC)**
 Providing refreshments and prizes. 
+[![](images/ucc_logo.jpg)](https://sap.cob.csuchico.edu/)
 
 
 
