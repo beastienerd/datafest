@@ -6,6 +6,8 @@ navbar:
   left:
     - text: "Schedule"
       href: schedule.html
+    - text: "Workshops"
+      href: workshops.html
     - text: "Sponsors"
       href: sponsors.html
   right: 
