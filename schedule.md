@@ -47,5 +47,3 @@ _(Times are slightly TBD depending on the number of groups presenting)_
 4:30-5pm - Award ceremony   
 
 Consultants available for help until 1pm.    
-
-# After the event
