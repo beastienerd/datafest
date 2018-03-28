@@ -8,13 +8,16 @@ navbar:
       href: schedule.html
     - text: "Sponsors"
       href: sponsors.html
+    - text: "Register"
+      icon: fa-user-plus
+      href: https://docs.google.com/forms/d/e/1FAIpQLSf6lrnab-gm-ds5xsi8Ss5j3E-ZTUc0ipSNQYOEvSzRbkoKhw/viewform 
   right: 
     - text: "FAQ"
       icon: fa-question
       href: faq.html
     - text: "Contact"
       icon: fa-envelope-o
-      href: mailto:datascience@csuchico.edu 
+      href: contact.html
 
       
 output:
