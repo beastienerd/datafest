@@ -17,7 +17,7 @@ navbar:
       href: faq.html
     - text: "Contact"
       icon: fa-envelope-o
-      href: mailto:datascience@csuchico.edu 
+      href: contact.html
 
       
 output:
