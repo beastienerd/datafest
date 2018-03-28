@@ -10,7 +10,7 @@ This is an excellent recruiting opportunity; you get to watch students working i
 At other institutions, students have received internships and interviews that have led to full-time employment. 
 Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
 
-[[Click here!]](https://docs.google.com/forms/d/e/1FAIpQLSf6lrnab-gm-ds5xsi8Ss5j3E-ZTUc0ipSNQYOEvSzRbkoKhw/viewform) to sign up as a mentor, or contact Robin Donatello for more information. 
+[[Click here!]](https://docs.google.com/forms/d/e/1FAIpQLSf6lrnab-gm-ds5xsi8Ss5j3E-ZTUc0ipSNQYOEvSzRbkoKhw/viewform) to sign up as a mentor, or contact Robin Donatello at rdonatello@csuchico.edu for more information. 
 
 ## Financial Contributions
 
