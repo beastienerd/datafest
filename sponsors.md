@@ -37,7 +37,7 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 
 * **SAP University Competence Center (SAP-UCC)**  
 Providing refreshments and prizes.     
-[![](images/ucc_logo.jpg)](https://sap.cob.csuchico.edu/)
+[![](images/ucc_logo.jpg)](http://sap.cob.csuchico.edu/)
 
 
 
