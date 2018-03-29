@@ -11,7 +11,6 @@ You are welcome to use any programming language you like, but we will host some 
 * Data management with dplyr (R)
     - Tue 4/24/2018 3:00p - 4:00p   
 
-
 # Event Weekend 
 All events are @ Chico State Campus, Holt 155 unless otherwise noted. 
 Campus security has asked that anyone staying over night remain in the building between midnight and 6am. 
