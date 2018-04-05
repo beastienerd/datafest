@@ -46,7 +46,7 @@ There are three ways to help out and support DataFest. Individuals and business 
 Here is a [video by Rob Gould](http://datafest.stat.ucla.edu/support-datafest/) from UCLA discussing the benefits of supporting this event. 
 
 
-## Visiting Mentors
+## Consultants
 Alumni? Graduate student? Recruiter? We need your help! Come spend a few hours helping students navigate their way through this complex and rich data set. Don't know code very well? That's fine, everyone needs a sounding board! Plus they have to develop presentations to communicate their findings. 
 
 ## Judges

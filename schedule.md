@@ -18,31 +18,32 @@ Campus security has asked that anyone staying over night remain in the building 
 ## Friday, April 27, 2018  
 **Welcome!**  
  
-5-6pm - Registration  / Team formation
-6-7pm - Kickoff & Meet the data  
-7pm - Dinner  
-11:30 pm-Midnight - Q&A Session with Data suppliers 
-Consultants available for help until midnight, you can work as late as you like.  
+5-6pm - Registration  / Team formation  
+6-7pm - Kickoff & Meet the data    
+7pm - Dinner    
+11:30 pm-Midnight - Q&A Session with Data suppliers   
+  
+Consultants available for help until midnight, you can work as late as you like.    
 
 ## Saturday, April 28, 2018  
 **Carry on!**  
 
-9am - Breakfast  
-12:30pm - Lunch  
-5:30pm - Group photo  
-6:00pm - Dinner  
-11:50pm - Midnight snack & prize raffle
-Consultants available for help until midnight, you can work as late as you like.  
+9am - Breakfast    
+12:30pm - Lunch    
+5:30pm - Group photo    
+6:00pm - Dinner    
+11:50pm - Midnight snack & prize raffle    
+  
+Consultants available for help until midnight, you can work as late as you like.    
   
 ## Sunday, April 29, 2018  
 **Wrap up!**  
 _(Times are slightly TBD depending on the number of groups presenting)_
  
-9am - Breakfast  
-1pm - Lunch  
-1:30-2pm - Quick workshop on creating presentations in R Studio (Optional - Location TBD)
-2-4pm - Presentation preparation
-3 - 4pm - Presentations and judges' deliberations 
-4:30-5pm - Award ceremony   
-
-Consultants available for help until 1pm.    
+10am - Brunch  
+11-11:30am Quick workshop on R presentations   
+1pm - Lunch    
+2-3pm Presentation and judges' deliberations
+3:30pm - Award ceremony     
+   
+Consultants available for help until 1pm.      
