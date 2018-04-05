@@ -39,5 +39,7 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 Providing refreshments and prizes.     
 [![](images/ucc_logo.jpg)](http://sap.cob.csuchico.edu/)
 
+* **CESR (Center for Enterprise Systems and Informatics Research)**   
+[[link to the website]](http://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml)
 
 
