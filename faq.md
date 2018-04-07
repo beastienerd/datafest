@@ -39,7 +39,7 @@ Fame, glory, prizes or some combination thereof... And you get a t-shirt!
 ## Where else is ASA DataFestTM happening?
 ASA DataFestTM is growing fast! See [[here]](https://ww2.amstat.org/education/datafest/participants.cfm) for a list of all participating institutions. If you are interested in holding ASA DataFestTM at your institution, click here to get more information on the event.
 
-[![](images/participants.jpg)]
+![](images/participants.jpg)
 
 
 
