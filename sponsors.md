@@ -35,11 +35,11 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 [![](images/logo_dc.png)](https://www.datacamp.com/promo/meetup)  
 
 
-* **SAP University Competence Center (SAP-UCC)**  
-Providing refreshments and prizes.     
+* **SAP University Competence Center (SAP-UCC)**  is providing refreshments and prizes.     
 [![](images/ucc_logo.jpg)](http://sap.cob.csuchico.edu/)
 
 * **[[CESR (Center for Enterprise Systems and Informatics Research)]](http://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml)**  
 Providing refreshments and prizes.     
 
-
+* **Build.com** is donating money and giveaway prizes.  
+[![](images/build_logo.png)](https://www.build.com/) 

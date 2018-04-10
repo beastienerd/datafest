@@ -16,7 +16,7 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 ---
 
 <div style="text-align:center" markdown="1">
-  ![](images/DataFestFlyer.png)
+  ![](images/DataFestFlyer.PNG)
 </div>
 
 
