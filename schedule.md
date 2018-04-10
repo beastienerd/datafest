@@ -4,7 +4,7 @@ You are welcome to use any programming language you like, but we will host some 
 
 * Getting Started with Python & Jupyter  
     - Thu 4/5/2018 2:00p - 3:00p    
-* Data Tables and Viz with Python  
+* Using Python for Exploratory Data Analysis
     - Thu 4/12/2018 3:00p - 4:00p  
 * Data Viz with ggplot2 (R)  
     - Thu 4/19/2018 2:00p - 3:00p 
@@ -21,8 +21,7 @@ Campus security has asked that anyone staying over night remain in the building 
 5-6pm - Registration  / Team formation  
 6-7pm - Kickoff & Meet the data    
 7pm - Dinner    
-11:30 pm-Midnight - Q&A Session with Data suppliers   
-  
+
 Consultants available for help until midnight, you can work as late as you like.    
 
 ## Saturday, April 28, 2018  
@@ -41,9 +40,10 @@ Consultants available for help until midnight, you can work as late as you like.
 _(Times are slightly TBD depending on the number of groups presenting)_
  
 10am - Brunch  
-11-11:30am Quick workshop on R presentations   
-1pm - Lunch    
-2-3pm Presentation and judges' deliberations
+11-11:30am - Quick workshop on creating presentations in R Studio (Optional - Location TBD) 
+1pm - Lunch (on your own)
+2-3pm - Presentations and judges' deliberations  
 3:30pm - Award ceremony     
-   
+
+
 Consultants available for help until 1pm.      

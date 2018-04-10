@@ -10,15 +10,15 @@ This is an excellent recruiting opportunity; you get to watch students working i
 At other institutions, students have received internships and interviews that have led to full-time employment. 
 Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
 
-[[Click here!]](https://docs.google.com/forms/d/e/1FAIpQLSf6lrnab-gm-ds5xsi8Ss5j3E-ZTUc0ipSNQYOEvSzRbkoKhw/viewform) to sign up as a mentor, or contact Robin Donatello at rdonatello@csuchico.edu for more information. 
+[[Register here]](https://docs.google.com/forms/d/e/1FAIpQLSf6lrnab-gm-ds5xsi8Ss5j3E-ZTUc0ipSNQYOEvSzRbkoKhw/viewform) to sign up as a mentor, or contact Robin Donatello at rdonatello@csuchico.edu for more information. 
 
 ## Financial Contributions
 
-We welcome financial donations from individuals and businesses. Donations are used to provide food, prizes, and supplies. We are seeking to raise $2000 for the 2018 event. 
+We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, and more food. We are seeking to raise $2000 for the 2018 event. Students can only work on this data while on site, so feeding them is critical! 
 
 Contact Robin Donatello, rdonatello@csuchico.edu for more information on how to give. 
 
-## Swag
+## Swag, giveaways, Prizes!!!
 
 Pens, note pads, USB drives, buttons... Students love these and they help make the event fun. If we get something special, we can give it away in a “midnight raffle” to help keep the energy level high.
 
@@ -38,8 +38,8 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 * **SAP University Competence Center (SAP-UCC)**  is providing refreshments and prizes.     
 [![](images/ucc_logo.jpg)](http://sap.cob.csuchico.edu/)
 
-* **CESR (Center for Enterprise Systems and Informatics Research)**   
-[[link to the website]](http://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml)
+* **[[CESR (Center for Enterprise Systems and Informatics Research)]](http://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml)**  
+Providing refreshments and prizes.     
 
 * **Build.com** is donating money and giveaway prizes.  
 [![](images/build_logo.png)](https://www.build.com/) 
