@@ -28,18 +28,17 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 
 Data Fest wouldn't be able to happen without the help of these individuals and companies. 
 
-* **The American Statistical Association** is the National coordinating organization. They work hard to get the most interesting data possible.     
+* **[The American Statistical Association](https://www.amstat.org/)** is the National coordinating organization. They work hard to get the most interesting data possible.     
 [![](images/asa_logo.jpg)](https://www.amstat.org/)
 
 * **Data Camp** is offering a free one-month trial membership (access to all their courses) for DataFest participants.
 [![](images/logo_dc.png)](https://www.datacamp.com/promo/meetup)  
 
 
-* **SAP University Competence Center (SAP-UCC)**  is providing refreshments and prizes.     
+* **[SAP University Competence Center (SAP-UCC)](http://sap.cob.csuchico.edu/)**       
 [![](images/ucc_logo.jpg)](http://sap.cob.csuchico.edu/)
 
-* **[[CESR (Center for Enterprise Systems and Informatics Research)]](http://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml)**  
-Providing refreshments and prizes.     
+* **[CESR (Center for Enterprise Systems and Informatics Research)](http://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml)**  
 
-* **Build.com** is donating money and giveaway prizes.  
+* **[Build.com](https://www.build.com/)**   
 [![](images/build_logo.png)](https://www.build.com/) 
