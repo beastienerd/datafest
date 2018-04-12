@@ -41,6 +41,8 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 * **[Build.com](https://www.build.com/)**   
 [![](images/build_logo.png)](https://www.build.com/) 
 
+* **[Chico State Math Club](https://www.facebook.com/CSUChicoMathClub/)**   
+[![](images/math_logo.png)](https://www.facebook.com/CSUChicoMathClub/) 
 
 * **[Payless Building Supply](http://www.paylessbuildingsupply.com/)**  
 [![](images/pbs_logo.png)](http://www.paylessbuildingsupply.com/)
