@@ -28,6 +28,8 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 
 Data Fest wouldn't be able to happen without the help of these individuals and companies. 
 
+* **[Provost & Vice President for Academic Affairs](http://www.csuchico.edu/vpaa/)**   
+
 * **[The American Statistical Association](https://www.amstat.org/)** is the National coordinating organization. They work hard to get the most interesting data possible.     
 [![](images/asa_logo.jpg)](https://www.amstat.org/)
 
@@ -46,6 +48,9 @@ Data Fest wouldn't be able to happen without the help of these individuals and c
 
 * **[Payless Building Supply](http://www.paylessbuildingsupply.com/)**  
 [![](images/pbs_logo.png)](http://www.paylessbuildingsupply.com/)
+
+* **[Clock Shark](https://www.clockshark.com/)**  
+[![](images/sharky_logo.png)](https://www.clockshark.com/)
 
 * **[Data Camp](https://www.datacamp.com/promo/meetup)** is offering a free one-month trial membership (access to all their courses) for DataFest participants.
 [![](images/logo_dc.png)](https://www.datacamp.com/promo/meetup)  
