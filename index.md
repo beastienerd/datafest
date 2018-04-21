@@ -10,8 +10,8 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
 The mission of DataFest is to expose undergraduate students to challenging questions with immediate real-world significance that can be addressed through data analysis. By working in teams, students with varying skill sets will combine their efforts and expand their collective data analysis horizons. Interaction among students, as well as with outside consultants will promote the sense that data analysis is a dynamic, engaging, and vibrant part of our society, as well as a realistic, practical, and fun career path.
 
 #### Use the link in the navigation bar to register today!
-* Registration closes April 14th. 
-* Interested in helping out at the event? Check out the "[How to help](help)" page. 
+* **Registration is now closed.**
+* Interested in helping out at the event? Check out the **How to help** section on the [Faq](faq.html) page. 
 
 ---
 

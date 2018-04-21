@@ -14,9 +14,7 @@ Success at DataFest requires that a team have a combination of computational, st
 
 ## Financial Contributions
 
-We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, and more food. We are seeking to raise $2000 for the 2018 event. Students can only work on this data while on site, so feeding them is critical! 
-
-Contact Robin Donatello, rdonatello@csuchico.edu for more information on how to give. 
+We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, and caffeine. Students can only work on this data while on site, so feeding them is critical! Contact Robin Donatello, rdonatello@csuchico.edu for more information on how to give. 
 
 ## Swag, giveaways, Prizes!!!
 
@@ -25,6 +23,8 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 ---
 
 # 2018 Sponsors
+
+> **We have successfully raised minimum funding to make this year's event possible! Thank you to all our wonderful sponsors!**
 
 Data Fest wouldn't be able to happen without the help of these individuals and companies. 
 
