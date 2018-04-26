@@ -15,8 +15,16 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 
 ---
 
+
+## Where else is ASA DataFestTM happening?  
+ASA DataFestTM is growing fast! It is being held at 61 institutions this year. If you are interested in holding ASA DataFestTM at your institution, visit the official [[ASA DataFest]](https://ww2.amstat.org/education/datafest/) webpage to get more information on the event.
+
+![](images/participants.jpg)
+
+
+---
+
 <div style="text-align:center" markdown="1">
   ![](images/DataFestFlyer.PNG)
 </div>
-
 

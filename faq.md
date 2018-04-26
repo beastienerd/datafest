@@ -37,12 +37,6 @@ No. You may come and go as you please. However, you are not allowed to work on t
 ## What can I win?
 Fame, glory, prizes or some combination thereof... And you get a t-shirt!
 
-## Where else is ASA DataFestTM happening?
-ASA DataFestTM is growing fast! It is being held at 61 institutions this year. If you are interested in holding ASA DataFestTM at your institution, visit the official [[ASA DataFest]](https://ww2.amstat.org/education/datafest/) webpage to get more information on the event.
-
-![](images/participants.jpg)
-
-
 ---
 
 # Just want to help put on this awesome event? {#helpout}
