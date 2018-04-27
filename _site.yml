@@ -15,6 +15,8 @@ navbar:
     - text: "FAQ"
       icon: fa-question
       href: faq.html
+    - text: "Code of Conduct"
+      href: code_of_conduct.html
     - text: "Contact"
       icon: fa-envelope-o
       href: contact.html
