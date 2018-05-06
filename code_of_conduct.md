@@ -13,15 +13,14 @@ ASA participants agree to:
 - Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any organizers in person.
 - Take care of each other. Alert a member of the organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
-For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx?hkey=cd6c7609-5d24-4f07-b0e3-8606ca98de47).
+For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx).
 
 ### Need Help?
 
-Please speak with Robin Donatello or reach them at [rdonatello@csuchico.edu](mailto:rdonatello@csuchico.edu).
+Please speak with an event coordinator on site, or email Robin Donatello at rdonatello@csuchico.edu.
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 
 We welcome your feedback on this and every other aspect of ASA DataFest<small><sup>TM</sup></small> events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
-The text above has been lifted directly (with names changed) from [Duke's DataFest page](https://www2.stat.duke.edu/datafest/coc/). Parts of above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative's "how to design a code of conduct for your community.
-
+The text above has been only slightly modified from Duke's DataFest website: https://www2.stat.duke.edu/datafest/coc/. Parts of above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative's "how to design a code of conduct for your community".
