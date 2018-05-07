@@ -49,7 +49,7 @@ After two days of intense data wrangling, analysis, presentation design, intersp
 
 <tbody>
 <tr>
-  <td><img src="images/pics_2018/best_visualization.jpg" alt="" border=3></img> </td>  
+  <td><img src="images/pics_2018/best_visualization.jpg" alt="" border=3></img> Pedro Valdiva, Mike Mulligan, Grant Esparza, James Dittig </td>  
   <td> ![](images/pics_2018/orange_1.PNG) ![](images/pics_2018/orange_2.PNG) </td>
 </td>
 </tr>
@@ -75,7 +75,7 @@ After two days of intense data wrangling, analysis, presentation design, intersp
 
 <tbody>
 <tr>
-  <td><img src="images/pics_2018/best_discovery.jpg" alt="" border=3></img>  Ben Scanlan, Collin Deven, Eisley Adoremos and Marisol Najera </td>  
+  <td><img src="images/pics_2018/best_discovery.jpg" alt="" border=3></img> Collin Deven, Eisley Adoremos, Ben Scanlan, Marisol Najera </td>  
   <td> ![](images/pics_2018/sloth_2.PNG) ![](images/pics_2018/sloth_3.PNG) </td>
 </td>
 </tr>
