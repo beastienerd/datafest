@@ -5,13 +5,84 @@ Our first year saw 12 undergraduate students from Applied Mathematics, Statistic
 
 After two days of intense data wrangling, analysis, presentation design, interspersed with a lot of good free food and caffeine, each team presented their findings to a panel of judges consisting of both on and off campus professionals. Over $500 worth of prizes were given for Best in Show, Best Visualization, and Best Use of External
 
+
+
 ###Best Use of Outside Data
-![](images/pics_2018/best_use_of_outside_data.jpg)
+<table  border="5" bordercolor="black" align="center">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+
+<thead>
+<tr class="header">
+<th align="center" >The Squadratics</th>
+<th align="center" >Slides</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+  <td><img src="images/pics_2018/best_use_of_outside_data.jpg" alt="" border=3></img>  Eduardo Gomez, Jerry Tucay, Mariby Cruz, Mitch Borgert </td>  
+  <td> ![](images/pics_2018/squad_2.PNG) ![](images/pics_2018/squad_3.PNG) </td>
+</td>
+</tr>
+
+</tbody>
+</table>
+
 
 ###Best Visualization
-![](images/pics_2018/best_visualization.jpg)
+
+<table  border="5" bordercolor="black" align="center">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+
+<thead>
+<tr class="header">
+<th align="center" >Team Orange</th>
+<th align="center" >Slides</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+  <td><img src="images/pics_2018/best_visualization.jpg" alt="" border=3></img> </td>  
+  <td> ![](images/pics_2018/orange_1.PNG) ![](images/pics_2018/orange_2.PNG) </td>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 
-###Judges Choice and Best Discovery 
-![](images/pics_2018/best_discovery.jpg)
+###Judges Choice and Best Discovery
+
+<table  border="5" bordercolor="black" align="center">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+
+<thead>
+<tr class="header">
+<th align="center" >Sloth Programming Team</th>
+<th align="center" >Slides</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+  <td><img src="images/pics_2018/best_discovery.jpg" alt="" border=3></img>  Ben Scanlan, Collin Deven, Eisley Adoremos and Marisol Najera </td>  
+  <td> ![](images/pics_2018/sloth_2.PNG) ![](images/pics_2018/sloth_3.PNG) </td>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
 
