@@ -10,8 +10,8 @@ After two days of intense data wrangling, analysis, presentation design, intersp
 ###Best Use of Outside Data
 <table  border="5" bordercolor="black" align="center">
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="50%" />
+<col width="50%" />
 </colgroup>
 
 <thead>
@@ -36,8 +36,8 @@ After two days of intense data wrangling, analysis, presentation design, intersp
 
 <table  border="5" bordercolor="black" align="center">
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="50%" />
+<col width="50%" />
 </colgroup>
 
 <thead>
@@ -62,8 +62,8 @@ After two days of intense data wrangling, analysis, presentation design, intersp
 
 <table  border="5" bordercolor="black" align="center">
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="50%" />
+<col width="50%" />
 </colgroup>
 
 <thead>
