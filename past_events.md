@@ -85,4 +85,39 @@ After two days of intense data wrangling, analysis, presentation design, intersp
 
 
 
+#Other Pictures
+<table  border="5" bordercolor="black" align="center">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+
+</colgroup>
+
+
+<tbody>
+<tr>
+  <td> ![](images/pics_2018/cooling_off.jpg)</td>  
+  <td> ![](images/pics_2018/food_day1.jpg)  </td>
+  <td> ![](images/pics_2018/friday_evening.jpg)  </td>
+
+</td>
+</tr>
+<tr>
+  <td>![](images/pics_2018/stuff.jpg)</td>  
+  <td> ![](images/pics_2018/french_toast.jpg)  </td>
+  <td> ![](images/pics_2018/sloth_team.jpg)  </td>
+
+</td>
+</tr>
+<tr>
+  <td>![](images/pics_2018/squad.jpg)  </td>  
+  <td> ![](images/pics_2018/team_orange.jpg)  </td>
+  <td> ![](images/pics_2018/some_code.jpg)  </td>
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
